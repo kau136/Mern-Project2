@@ -1,0 +1,6 @@
+FirstName,LastName,Email,Phone,Gender,Status,Profile,Location,DateCreated,DateUpdated
+amit,Kaushik,hkkaushik121@gmail.com,9876543211,Male,InActive,image-1688286706432.photo.jpg,Agra,Sun Jul 02 2023 02:01:46 GMT+0530 (India Standard Time),Mon Jul 03 2023 07:48:04 GMT+0530 (India Standard Time)
+Hemant,kaushik,hkkaushik123@gmail.com,8954745517,Male,InActive,image-1688350654256.photo.jpg,Tirwaganj,Mon Jul 03 2023 07:47:34 GMT+0530 (India Standard Time),-
+navin,kaushik,hkkaushik111@gmail.com,9812345678,Male,InActive,image-1688350762864.photo.jpg,agra,Mon Jul 03 2023 07:49:22 GMT+0530 (India Standard Time),-
+Gopal,Kaushik,hkkaushik886@gmail.com,1234567765,Female,Active,image-1688350817989.photo.jpg,Tirwaganj,Mon Jul 03 2023 07:50:18 GMT+0530 (India Standard Time),-
+Rahul,Kaushik,hkkaushik211@gmail.com,9876551234,Female,Active,image-1688350878797.photo.jpg,Bangalore,Mon Jul 03 2023 07:51:18 GMT+0530 (India Standard Time),-
